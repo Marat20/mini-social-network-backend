@@ -1,1 +1,0 @@
-# mini-social-network-backend
